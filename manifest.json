@@ -1,7 +1,7 @@
 {
   "publications": [
     {
-      "rfcNumber": "9851",
+      "rfcNumber": 9851,
       "files": [
         {
           "path": "rfc9851.html",
